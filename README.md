@@ -8,7 +8,7 @@ Here is the version on my local computer.
 
 
 ## Brooke makes changes here
-
+I am honored to be a collaborator on this project.
 
 ## Both make changes here
 
