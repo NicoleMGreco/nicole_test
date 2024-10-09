@@ -13,3 +13,4 @@ I am honored to be a collaborator on this project.
 ## Both make changes here
 
 Making changes for merge conflict purposes
+Merge conflicts are not scary but should be avoided at all costs.
