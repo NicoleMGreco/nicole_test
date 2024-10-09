@@ -12,4 +12,4 @@ I am honored to be a collaborator on this project.
 
 ## Both make changes here
 
-change this line!
+Merge conflicts are not scary but should be avoided at all costs.
